@@ -33,9 +33,6 @@ pip install -r requirement.txt
 ## DEMO
 
 <img src="images/image-20241114103410280.png" alt="image-20241114103410280" style="zoom:50%;" />
-
-<img src="images/image-20241114103524769.png" alt="image-20241114103524769" style="zoom: 50%;" />
-
 <img src="images/image-20241114103853986.png" alt="image-20241114103853986" style="zoom: 50%;" />
 
 ## 编写约定
